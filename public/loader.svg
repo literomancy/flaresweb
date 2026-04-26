@@ -1,0 +1,14 @@
+<svg width="174" height="174" viewBox="0 0 174 174" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Repeat group 1_inner" data-figma-trr="r9u2.6-0f">
+<rect x="81.8848" y="21.4082" width="9.61328" height="36.2676" fill="white"/>
+<rect x="81.8848" y="21.4082" width="9.61328" height="36.2676" stroke="white"/>
+</g>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(76.0057 -35.4423) rotate(40)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(157.011 -13.7372) rotate(80)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(205.113 54.9593) rotate(120)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(197.804 138.503) rotate(160)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(138.504 197.804) rotate(-160)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(54.9605 205.113) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(-13.7363 157.011) rotate(-80)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(-35.4419 76.0059) rotate(-40)"/>
+</svg>
